@@ -1,0 +1,13 @@
+body{
+  background-image: url("https://i.pinimg.com/550x/61/e5/6c/61e56cbca0f7fa24399b956855d40f59.jpg");
+  background-color: salmon; 
+  font-family: georgia;
+}
+.exp-header{
+    border-style: dotted solid double;
+}
+h1{
+  border-bottom:1px solid;
+  text-align:center;
+
+}
